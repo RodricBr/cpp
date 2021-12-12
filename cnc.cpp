@@ -1,4 +1,4 @@
-/*
+
 // teste command and control e beacon loop QDCZObWtDOs
 int main(int argc, char** argv) {
   using namespace boost::program_options;
@@ -38,4 +38,4 @@ try {
 } catch(const boost::system::system_error& se) {
   std::cer << "Error: " << se.what() << std::endl;
 }
-*/
+
